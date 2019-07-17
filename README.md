@@ -81,7 +81,3 @@ until the Step 3: Build section. DO NOT SKIP THIS STAGE.
 
 Congrats! you now have a deployed site, just like me:
 http://nodepipeline.ctrwv48puz.us-west-2.elasticbeanstalk.com/
-
-
-
-
