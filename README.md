@@ -81,3 +81,9 @@ until the Step 3: Build section. DO NOT SKIP THIS STAGE.
 
 Congrats! you now have a deployed site, just like me:
 http://nodepipeline.ctrwv48puz.us-west-2.elasticbeanstalk.com/
+
+#### Potential Roadblocks
+
+- Need to know the `buildspec.yml` format
+- In `buildspec.yml` make sure that the commands doing what they are supposed to do
+
